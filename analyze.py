@@ -1,3 +1,9 @@
+"""
+How to use:
+command line -> python analyze.py <desired_text_file> 
+[WITHOUT THE .TXT EXTENSION]
+"""
+
 import sys
 from collections import Counter
 
